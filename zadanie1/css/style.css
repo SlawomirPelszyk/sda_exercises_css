@@ -1,3 +1,36 @@
-/*
-** tu powinny być zdefiniowane style css dla dokumentu html
-**/
+body {
+	background-color: ThreedFace;
+}
+
+h1, h1:after {
+	font-size: 40px;
+	background-color: orange;
+	color: red;
+	font-family: serif; 
+}
+h2 {
+	font-size: 30px;
+	background-color: ButtonHighlight;
+	color: blue;
+}
+.class1 {
+    font-size: 20px;
+    font-style: normal;
+}
+.class2 {
+    font-size: 18px;
+}
+.fromclass {
+	background-color: black;
+    border-color: azure;
+	
+}
+b {
+	font-size: x-large;
+	font-style: italic;
+}
+#iddiv {
+		background: yellow;
+	}
+
+
